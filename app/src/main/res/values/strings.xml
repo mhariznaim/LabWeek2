@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">Enter your username</string>
+    <string name="user_pwd">Your password</string>
+    <string name="btn_login">Enter</string>
+    <string name="greet">Hello Buddy</string>
+</resources>
